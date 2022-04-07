@@ -1,0 +1,24 @@
+<description>
+    <inceptionYear>
+      <licenses>
+          <license>
+              <name>0</name>
+              <url>0</name>
+              <distribution>0</distribution>
+          </license>
+      </licenses>
+      
+      <developers>
+          <developer>
+              <id>21601</id>
+              <name>dmitry</name>
+              <email>dobysh-trpo@mail.ru</email>
+              <url>https://github.com/dobysh-trpo2/</url>
+              <timezone>gmt+3</timezone>
+              <properties>
+                  <skype>0</skype>
+              </properties>
+          </developer>
+      </developers>
+    </inceptionYear>
+  </description>
